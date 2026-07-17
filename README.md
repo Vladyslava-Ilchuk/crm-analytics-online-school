@@ -313,6 +313,6 @@ and what insights were found.
 **Vladyslava Ilchuk**
 Data Analytics | IT Career Hub | 2026
 
-[![LinkedIn](https://www.linkedin.com/in/vladyslava-ilchuk-91346b384/)
-[![Portfolio](https://vladyslava-ilchuk.github.io/vladyslava_portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vladyslava-ilchuk-91346b384/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=github)](https://vladyslava-ilchuk.github.io/vladyslava_portfolio/)
 
