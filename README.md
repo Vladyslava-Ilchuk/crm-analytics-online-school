@@ -85,7 +85,7 @@ recommendations with a statistically designed A/B hypothesis.
 
 | Tool | Purpose |
 |------|---------|
-| Python 3.10 | Core language |
+| Python  | Core language |
 | Pandas | Data manipulation and cleaning |
 | NumPy | Numerical calculations |
 | Matplotlib | Static visualisations |
