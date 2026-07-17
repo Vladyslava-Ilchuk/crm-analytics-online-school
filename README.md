@@ -207,7 +207,7 @@ Heatmap: City × German language level → conversion rate.
 | B | Valid buyers (Revenue > 0) | 839 |
 | C1 | B / UA × 100 | 4.52% |
 | AC | Total ad spend | €149,523 |
-| AOV | Revenue / B | €4,082 |
+| AOV | Revenue / T | €827 |
 | CAC | AC / B | €178 |
 | COGS | 0 (ed-tech, no physical goods) | €0 |
 | CM | Revenue − AC − COGS | €3,353,248 |
