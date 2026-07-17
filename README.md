@@ -59,7 +59,6 @@ recommendations with a statistically designed A/B hypothesis.
 | Spend    | 20,779 | Ad spend — source, campaign, clicks, cost |
 | Deals    | 21,593 | Full pipeline — stage, product, payment, revenue |
 
-> ⚠️ Raw source files are not included (confidential client data).
 
 ---
 
@@ -79,26 +78,6 @@ recommendations with a statistically designed A/B hypothesis.
 | CPA (cost per lead) | €8.06 |
 | CPC (cost per click) | €0.30 |
 
----
-
-## 🗂️ Project Structure
-
-crm-analytics-online-school/
-│
-├── notebooks/
-│   ├── 01_contacts_prepare.ipynb   # Contacts data cleaning
-│   ├── 02_calls_prepare.ipynb      # Calls data cleaning
-│   ├── 03_spend_prepare.ipynb      # Ad spend data cleaning
-│   ├── 04_deals_prepare.ipynb      # Deals data cleaning (main)
-│   ├── 05_deals_science.ipynb      # Core analysis (6 blocks)
-│   └── 06_product_analytics.ipynb  # Unit economics & hypothesis
-│
-├── utils/
-│   └── myutils.py                  # Reusable helper functions
-│
-└── docs/
-└── project_walkthrough.pdf     # Step-by-step explanation
-# of each notebook
 
 ---
 
