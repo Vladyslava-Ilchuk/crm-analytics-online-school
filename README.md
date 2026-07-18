@@ -59,6 +59,7 @@ recommendations with a statistically designed A/B hypothesis.
 | Spend    | 20,779 | Ad spend — source, campaign, clicks, cost |
 | Deals    | 21,593 | Full pipeline — stage, product, payment, revenue |
 
+> ⚠️ Raw source files are not included (confidential client data).
 
 ---
 
