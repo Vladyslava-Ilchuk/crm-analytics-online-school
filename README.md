@@ -303,7 +303,7 @@ jupyter notebook notebooks/06_product_analytics.ipynb
 ## 📄 Project Documentation
 
 📎 [project_walkthrough.pdf](docs/project_walkthrough.pdf) 
-or ## 📄 Project Walkthrough in Images
+or 📄 Project Walkthrough as in Images
 
 Step-by-step explanation of each notebook:
 what was done, why each decision was made,
